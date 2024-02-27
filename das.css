@@ -1,0 +1,34 @@
+h4 {
+    font-family: 'Playfair Display', serif;
+
+}
+
+
+.card-body {
+    text-align: center;
+    
+  }
+  
+
+.laptop-head{
+
+    font-family: 'Playfair Display', serif;
+   
+    font-size: 1.5rem;
+  }
+
+  .total-laptops, .remaining-laptops {
+    font-weight: bold;
+    font-family: 'Playfair Display', serif;
+    font-size: 2rem;
+    margin: 0 5px;
+  }
+  
+
+a:link {
+    text-decoration: none;
+  }
+
+  /* @media screen {
+    
+  } */
